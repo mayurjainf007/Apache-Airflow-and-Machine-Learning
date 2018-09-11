@@ -9,7 +9,7 @@
 	OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning S\w library.
 	OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of 
 	machine perception in the commercial products. Being a BSD-licensed product, OpenCV makes it easy for businesses 
-	to utilize and modify the code.The library has more than 2500 optimized algorithms, which includes a comprehensive 
+	to utilize and modify the code.The library has more than 2500 optimized algorithms, which includes comprehensive 
 	set of both classic and state-of-the-art computer vision and machine learning algorithms. These algorithms can be 
 	used to detect and recognize faces, identify objects, classify human actions in videos, track camera movements, 
 	track moving objects, extract 3D models of objects, produce 3D point clouds from stereo cameras, stitch images 
