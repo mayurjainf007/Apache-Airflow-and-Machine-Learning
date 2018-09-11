@@ -1,12 +1,12 @@
 # Apache-Airflow-and-Machine-Learning
 # For Ubuntu Users Only
 # Airflow >
-	Use airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The airflow scheduler executes your tasks
-	on an array of workers while following the specified dependencies. Rich command line utilities make performing complex
-	surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, 
-	monitor progress, and troubleshoot issues when needed.
+	Use airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The airflow scheduler executes your 
+	tasks on an array of workers while following the specified dependencies. Rich command line utilities make 
+	performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines 
+	running in production, monitor progress, and troubleshoot issues when needed.
 # OpenCV(Machine Learning) >
-	OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.
+	OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning S\w library.
 	OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of 
 	machine perception in the commercial products. Being a BSD-licensed product, OpenCV makes it easy for businesses 
 	to utilize and modify the code.The library has more than 2500 optimized algorithms, which includes a comprehensive 
